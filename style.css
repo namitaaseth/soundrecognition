@@ -1,0 +1,33 @@
+body{
+    background-color: pink;
+    font-family: 'Comforter';
+}
+.header_div{
+    background-color: white;
+    color: maroon;
+}
+.header_div p{
+    color: midnightblue;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.main_div button{
+    margin-top: 25px;
+    width: 120;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+h2{
+    font-size: 20px;
+}
+.copy_right_footer{
+    width: 100%;
+    bottom: 0;
+    position: fixed;
+    background-color: whitesmoke;
+    text-align: center;
+    line-height: 2;
+    text-shadow: 5px 5px 5px grey;
+}
